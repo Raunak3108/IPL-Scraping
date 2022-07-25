@@ -25,3 +25,10 @@ function extractAllLinks(html) {
 module.exports = {
     gAlmatches: getAllMatchesLink
 }
+
+
+fun multi(){
+    let x = 10;
+    let y = x*10;
+    return y;
+}
